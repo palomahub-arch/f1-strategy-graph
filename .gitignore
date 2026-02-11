@@ -1,0 +1,15 @@
+# Env secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# FastF1 cache
+cache/
+
+# vscode
+.vscode/
